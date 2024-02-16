@@ -1,0 +1,52 @@
+#bottom {
+    background-color: rgb(126, 126, 126);
+    border-radius: 15%;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    left: 25%;
+}
+#top {
+    background-color: darkgrey;
+    border-radius: 15%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    font-family:"Cedarville Cursive";
+    position:absolute; 
+    left: 100px;
+    top: 70px;
+}
+
+#what {
+    font-family:"Cedarville Cursive";
+    position:absolute; 
+    left: 250px;
+    font-size: 1.5em;
+
+}
+div > img{
+    margin-top: 25%;
+    border-radius: 25px;
+}
+
+#det {
+    background-color: darkgray;
+    width: 500px;
+    height: 100px;
+    border-radius:40% ;
+    position: absolute;
+    top: 580px;
+    left: 100px;
+}
+
+#ven {
+    position: absolute;
+    left: 300px;
+    top: 580px;
+    color: white;
+    font-family:"Cedarville Cursive";
+    text-align: center;
+}

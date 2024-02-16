@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(112, 112, 112);
+    font-family:"Open Sans";
+}
+img{
+    border: solid 2px; color: #000;
+    
+}
+h1,h2{
+    color: rgb(66, 66, 66);
+    text-align: left;
+}
+
+h3 {
+    color: navy; 
+    text-decoration: none;
+    text-align: left;
+    font-size: 19.5px;
+}
+div{
+    background-color: rgb(75, 75, 75);
+}
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 8px;
+    font-weight: lighter;
+    color: white;
+}

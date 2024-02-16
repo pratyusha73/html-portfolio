@@ -1,0 +1,27 @@
+body {
+    background-color:#faf0e6;
+    font-family: "Garamond";
+}
+
+#desc {
+    position: relative;
+    left: 250px;
+    top: -200px;
+    }
+h1, h2, h3 {
+    text-align: center;
+}
+body>img {
+    border: black 2px solid;
+}
+
+footer{
+    color: grey;
+    font-size: 0.75em;
+    text-align: center;
+}
+
+p{
+    font-size: 1.02em;
+    font-family: "Garamond";
+}
